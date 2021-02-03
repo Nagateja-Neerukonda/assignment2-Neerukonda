@@ -3,4 +3,4 @@
 My self teja i'm from India  and i completed my bachelors in 2018.
 After i worked in product based company as a softeare developer.
 
-[Profile  pic](tejaprofilepic.jpg)
+Profile Picture [Profile  pic](tejaprofilepic.jpg)
