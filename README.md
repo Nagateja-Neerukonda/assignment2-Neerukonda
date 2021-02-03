@@ -41,11 +41,11 @@ The below Table shows the list places that one recommend to visit in India.the t
 
 |Location Name | Number of Hours | Amount($) |
 |:-------:|:---------------:|:------:|
-| [Chikmagalur](Chikmagalur.jpg) |  80 | 1000 $ |
-| [Goa Beach](goaBeach.jpg) | 60 | 500 $ |
-| [Maredumilli Forest](Maredumilli1.jpg)| 24 | 400 $ |
-| [Araku Valley](Araku.jpg) | 48 | 400 $ |
-| [ooty](Ooty.jpg) | 24 | 200 $ |
+| [Chikmagalur](images\Chikmagalur.jpg) |  80 | 1000 $ |
+| [Goa Beach](images\goaBeach.jpg) | 60 | 500 $ |
+| [Maredumilli Forest](images\Maredumilli1.jpg)| 24 | 400 $ |
+| [Araku Valley](images\Araku.jpg) | 48 | 400 $ |
+| [ooty](images\Ooty.jpg) | 24 | 200 $ |
 
 
 --------------
