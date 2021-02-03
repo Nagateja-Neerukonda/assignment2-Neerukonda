@@ -16,3 +16,16 @@ My favourite food is biryani.It is a muglai dish **famous in India** and particu
 5. Drag “Visual Studio Code.app” to the “Applications” folder, so as it available in the “Launchpad.”
 6. Double click on the “Visual Studio Code” to open.
 7. Add VS Code to your Dock by right-clicking on the icon to bring up the context menu and choosing Options => Keep in Dock.
+
+- Required Items
+  - 1.6 GHz or faster processor 
+  - 1 GB of RAM
+  - Platforms
+      - OS X Yosemite
+      - Windows 7 (with .NET Framework 4.5.2), 8.0, 8.1 and 10 (32-bit and 64-bit)
+      - Linux (Debian): Ubuntu Desktop 14.04, Debian 7
+      - Linux (Red Hat): Red Hat Enterprise Linux 7, CentOS 7, Fedora 23
+  - Additional Windows requirements
+      - Microsoft .NET Framework 4.5.2 is required for VS Code.
+      - If you are using Windows 7, please make sure .NET Framework 4.5.2 is installed
+
