@@ -32,3 +32,17 @@ My favourite food is biryani.It is a muglai dish **famous in India** and particu
 ----------
 
  Redirect to AboutMe file [link to the AboutMe](AboutMe.md)
+
+ -------
+
+ ## Best Places to Visit:
+
+The below Table shows the list places that one recommend to visit in India.the table shows Location and number of hours spending in the tour and cost of the tour.
+
+|Location Name | Number of Hours | Amount($) |
+|:-------:|:---------------:|:------:|
+| [Chikmagalur](Chikmagalur.jpg) |  80 | 1000 $ |
+| [Goa Beach](goaBeach.jpg) | 60 | 500 $ |
+| [Maredumilli Forest](Maredumilli1.jpg)| 24 | 400 $ |
+| [Araku Valley](Araku.jpg) | 48 | 400 $ |
+| [ooty](Ooty.jpg) | 24 | 200 $ |
