@@ -60,4 +60,32 @@ The below Table shows the list places that one recommend to visit in India.the t
 > Never make someone a priority when all you are to them is an option.
 \- *Maya Angelou*
 
+----------------
 
+## Introduction to JavaScript
+
+> JavaScript is a text-based programming language used both on the client-side and server-side that allows you to make web pages interactive.
+> Where HTML and CSS are languages that give structure and style to web pages, JavaScript gives web pages interactive elements that engage a user.
+
+**Source:**
+1. [<https://en.wikipedia.org/wiki/JavaScript>]
+2. [<https://www.hackreactor.com/>]
+
+
+```
+
+<body>  
+<h1> Hello world :):) </h1>  
+<h2> Scroll the bordered text to see the effect. </h2>  
+<p> This is an example of using the <b> onscroll </b> attribute. </p>  
+<p id = "para" onscroll = "fun()"> Hi, Welcome to the javaTpoint.com. This site is developed so that students may learn computer science related technologies easily. The javaTpoint.com is always providing an easy and in-depth tutorial on various technologies. No one is perfect in this world, and nothing is eternally best. But we can try to be better. </p>  
+<script>  
+function fun() {  
+document.getElementById("para").style.color = "red";  
+document.getElementById("para").style.background = "lightgreen";  
+}  
+</script> 
+
+
+ ```
+ Reference : [https://www.javatpoint.com/javascript-scroll]
