@@ -46,3 +46,18 @@ The below Table shows the list places that one recommend to visit in India.the t
 | [Maredumilli Forest](Maredumilli1.jpg)| 24 | 400 $ |
 | [Araku Valley](Araku.jpg) | 48 | 400 $ |
 | [ooty](Ooty.jpg) | 24 | 200 $ |
+
+
+--------------
+
+## Pithy Quotes
+>  It's always darkest before you're blinded by the light.
+\- *josh stern*
+
+> Nobody reaches anywhere by believing.
+\- *Osho*
+
+> Never make someone a priority when all you are to them is an option.
+\- *Maya Angelou*
+
+
