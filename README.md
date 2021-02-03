@@ -29,3 +29,6 @@ My favourite food is biryani.It is a muglai dish **famous in India** and particu
       - Microsoft .NET Framework 4.5.2 is required for VS Code.
       - If you are using Windows 7, please make sure .NET Framework 4.5.2 is installed
 
+----------
+
+!(link to the AboutMe)[AboutMe.md]
