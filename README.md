@@ -17,7 +17,7 @@ My favourite food is biryani.It is a muglai dish **famous in India** and particu
 6. Double click on the “Visual Studio Code” to open.
 7. Add VS Code to your Dock by right-clicking on the icon to bring up the context menu and choosing Options => Keep in Dock.
 
-- Required Items
+- ##### Required Items
   - 1.6 GHz or faster processor 
   - 1 GB of RAM
   - Platforms
